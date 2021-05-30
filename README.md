@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vsosp16 or just Yasin,
+- 👋 Hi, I’m Yasin aka @vsosp16,
 - 👀 I’m interested in web development, graphics design, video and GAMING!
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on ...
