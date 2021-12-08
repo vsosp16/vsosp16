@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yasin aka @vsosp16,
 - 👀 I’m interested in web development, graphics design, video and GAMING!
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning ECMA Script / React js -> React Native.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is writing vsosp16 on google... 
 
