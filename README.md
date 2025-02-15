@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yasin aka @vsosp16,
 - 👀 I’m interested in web development, graphics design, video and GAMING!
-- 🌱 I’m currently mastering PHP for WordPress, ECMA Script / React js -> React Native.
-- 💞️ I’m looking to collaborate on WordPress Theme and Plugin Development
+- 🌱 I’m currently mastering PHP for WordPress, Frontend with ECMA Script / React js Next.js and  Mobile App Development with React Native / Flutter.
+- 💞️ I’m looking to collaborate on WordPress Theme and Plugin Development or any profitable development project.
 - 📫 How to reach me is writing vsosp16 on social media... 
 
 <!---
